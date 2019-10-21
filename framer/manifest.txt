@@ -102,12 +102,12 @@ node_modules/@framer/djfumberger.mockmatic/code/MockmaticAnimator.tsx
 node_modules/@framer/djfumberger.mockmatic/code/Mockmatic.tsx
 node_modules/@framer/djfumberger.mockmatic/README.md
 design/images/whyE5nQkjRXEH1NQAsc0vDUspg.png
+design/images/tF46lr0EVShwwqizr5kQicjkTg.png
 design/images/rhPN954ni6wSHMllNgVRF3ToHms.png
 design/images/r61ccRUZIdXYJF5zfm4k3ROg.png
 design/images/qFOagbMfYwPcoYPDKJm4IFuW61Y.png
 design/images/lJg68Jo70QKCpiz4UNNCRrmsRo.png
 design/images/gs7ptzlVen2s7S2ROEmz8TAl4.png
-design/images/gVW0A0oKw7RSynykgGtlDd8MMU.jpg
 design/images/eeAwxstivmEqLl8vrid2BNu2m0.png
 design/images/dpx0LM61tGAmIFvEd9THpbUBjs.png
 design/images/bo0nnDOUXeUbypOsBnLWCtM4j3w.png
@@ -120,7 +120,6 @@ design/images/T5pmb1ABENbRwVuT1BkEBfQc.png
 design/images/PpMDiEVcFZSvbE1JNtwujCS9po4.png
 design/images/MCDgF5iVVVqFEFek8dOxaVVgUrw.png
 design/images/9IBjmhcNzkZcIn6H3zohI17WNqA.png
-design/images/4lkP4VBdSMHOV2esfSBW5viTGMU.jpg
 design/assets/9945-space-launch.json
 design/assets/10036-video-icon.json
 build/vendors.js
