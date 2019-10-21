@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["vendors~main"],{
 
-/***/ "../../../../../../private/var/folders/zr/xvhdhz892yg0_gbqgwvh1b180000gn/T/AppTranslocation/EF4AFECA-8943-438B-9CFA-131BC592E0F2/d/Framer X-2.app/Contents/Resources/Server/lib/framer-package-loader.js!./node_modules/@framer/djfumberger.mockmatic/dist/index.js":
-/*!*********************************************************************************************************************************************************************************************************************************************************!*\
-  !*** /private/var/folders/zr/xvhdhz892yg0_gbqgwvh1b180000gn/T/AppTranslocation/EF4AFECA-8943-438B-9CFA-131BC592E0F2/d/Framer X-2.app/Contents/Resources/Server/lib/framer-package-loader.js!./node_modules/@framer/djfumberger.mockmatic/dist/index.js ***!
-  \*********************************************************************************************************************************************************************************************************************************************************/
+/***/ "../../../../../Applications/Framer X 2.app/Contents/Resources/Server/lib/framer-package-loader.js!./node_modules/@framer/djfumberger.mockmatic/dist/index.js":
+/*!*****************************************************************************************************************************************************************************!*\
+  !*** /Users/khalevinkhalevin/Applications/Framer X 2.app/Contents/Resources/Server/lib/framer-package-loader.js!./node_modules/@framer/djfumberger.mockmatic/dist/index.js ***!
+  \*****************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -2387,10 +2387,10 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_three_obj_loader__;
 
 /***/ }),
 
-/***/ "../../../../../../private/var/folders/zr/xvhdhz892yg0_gbqgwvh1b180000gn/T/AppTranslocation/EF4AFECA-8943-438B-9CFA-131BC592E0F2/d/Framer X-2.app/Contents/Resources/Server/lib/framer-package-loader.js!./node_modules/@framer/lintonye.parallax/dist/index.js":
-/*!*****************************************************************************************************************************************************************************************************************************************************!*\
-  !*** /private/var/folders/zr/xvhdhz892yg0_gbqgwvh1b180000gn/T/AppTranslocation/EF4AFECA-8943-438B-9CFA-131BC592E0F2/d/Framer X-2.app/Contents/Resources/Server/lib/framer-package-loader.js!./node_modules/@framer/lintonye.parallax/dist/index.js ***!
-  \*****************************************************************************************************************************************************************************************************************************************************/
+/***/ "../../../../../Applications/Framer X 2.app/Contents/Resources/Server/lib/framer-package-loader.js!./node_modules/@framer/lintonye.parallax/dist/index.js":
+/*!*************************************************************************************************************************************************************************!*\
+  !*** /Users/khalevinkhalevin/Applications/Framer X 2.app/Contents/Resources/Server/lib/framer-package-loader.js!./node_modules/@framer/lintonye.parallax/dist/index.js ***!
+  \*************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3296,10 +3296,10 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_use_parallax__;
 
 /***/ }),
 
-/***/ "../../../../../../private/var/folders/zr/xvhdhz892yg0_gbqgwvh1b180000gn/T/AppTranslocation/EF4AFECA-8943-438B-9CFA-131BC592E0F2/d/Framer X-2.app/Contents/Resources/Server/lib/framer-package-loader.js!./node_modules/@framer/ruucm-h.enhanced-lottie/dist/index.js":
-/*!***********************************************************************************************************************************************************************************************************************************************************!*\
-  !*** /private/var/folders/zr/xvhdhz892yg0_gbqgwvh1b180000gn/T/AppTranslocation/EF4AFECA-8943-438B-9CFA-131BC592E0F2/d/Framer X-2.app/Contents/Resources/Server/lib/framer-package-loader.js!./node_modules/@framer/ruucm-h.enhanced-lottie/dist/index.js ***!
-  \***********************************************************************************************************************************************************************************************************************************************************/
+/***/ "../../../../../Applications/Framer X 2.app/Contents/Resources/Server/lib/framer-package-loader.js!./node_modules/@framer/ruucm-h.enhanced-lottie/dist/index.js":
+/*!*******************************************************************************************************************************************************************************!*\
+  !*** /Users/khalevinkhalevin/Applications/Framer X 2.app/Contents/Resources/Server/lib/framer-package-loader.js!./node_modules/@framer/ruucm-h.enhanced-lottie/dist/index.js ***!
+  \*******************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
